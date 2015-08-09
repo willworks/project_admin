@@ -1,0 +1,5 @@
+.fileInput{width:128px;height:165px; background:url(bg_fileInput.png);overflow:hidden;position:relative;}
+.fileSubmit{width:128px;height:165px; background:url(bg_fileSubmit.png);overflow:hidden;position:relative;}
+.upfile{position:absolute;top:-100px;}
+.upFileBtn{width:128px;height:165px;opacity:0;filter:alpha(opacity=0);cursor:pointer;}
+.SubmitBtn{width:128px;height:165px;opacity:0;filter:alpha(opacity=0);cursor:pointer;}
